@@ -11,6 +11,7 @@
 
     <groupId>com.edwindev08.hexagonal-arch</groupId>
     <artifactId>application</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
@@ -22,6 +23,7 @@
         <dependency>
             <groupId>com.edwindev08.hexagonal-arch</groupId>
             <artifactId>domain</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
